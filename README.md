@@ -16,7 +16,7 @@
 
 <h3 align="left">🌐 Connect with me</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/edwin-chen-92660a259" target="_blank">
+  <a href="https://linkedin.com/in/edwin-chen18" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://github.com/EdwinChen18" target="_blank">
